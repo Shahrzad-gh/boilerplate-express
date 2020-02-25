@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
 
 // --> 7)  Mount the Logger middleware here
-
+console.log("hello world!)
 
 // --> 11)  Mount the body-parser middleware  here
 
